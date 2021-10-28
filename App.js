@@ -32,7 +32,7 @@ function App() {
         />
 
       </Stack.Navigator>
-    </NavigationContainer>
+    </NavigationContainer> //Hello
   );
 }
 
